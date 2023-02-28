@@ -113,13 +113,16 @@ form{
 .desc_box {
 	text-align: left;
 }
-.desc_box .desc_title {
+.desc_title {
 	font-weight: 700;
-	font-size: 1.1rem;
+	font-size: 1rem;
 }
 .desc_box a {
 	text-decoration: underline;
 }
 .desc_box a:hover {
 	color: red;
+}
+.desc_detail {
+	font-size: 0.9rem;
 }
